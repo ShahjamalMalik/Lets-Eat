@@ -19,12 +19,12 @@ This project was built in collaboration with @tkoriginal @anisa114
 
 ## Final Product 
 
-!["Homepage"]Homepage(https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/Homepage.png)
-!["Menu Page"]Menu(https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/Menu%20Page%20Part%202.png)
-!["Menu Page"]Menu(https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/giphy.gif)
-!["Ordering"]Ordering Process(https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/Ordering.gif)
-!["View Order"]View Order(https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/View%20the%20order.png)
-!["Owner Side"]Owner Side(https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/Owner-Side.gif)
+#### Homepage !["Homepage"](https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/Homepage.png)
+#### Menu !["Menu Page"](https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/Menu%20Page%20Part%202.png)
+#### Menu !["Menu Page"](https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/giphy.gif)
+#### Ordering Process !["Ordering"](https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/Ordering.gif)
+#### View Order !["View Order"](https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/View%20the%20order.png)
+#### Owner Side !["Owner Side"](https://github.com/ShahjamalMalik/Lets-Eat/blob/master/public/images/Owner-Side.gif)
 
 ## Stack and Dependencies
 1. ES6 for server-side (Node) code
